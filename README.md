@@ -23,15 +23,15 @@
 | Level 6 | None             |
 | Level 7 | None             | 
 | Level 8 | None             |
-| Level 9 | Task 3,5         |
-| Level 10| Task 4           |
+| Level 9 | None             |
+| Level 10| None             |
 | Level 11| None             |
 | Level 12| None             |
-| Level 13| Task 7,8         |
+| Level 13| None             |
 | Level 14| Task 11          |
-| Level 15| Task 6,7,8,9,10  |
+| Level 15| None             |
 | Level 16| None             |
-| Level 17| Task 7,8,9       |
-| Level 18| Task 5,6,7       |
+| Level 17| None             |
+| Level 18| Task7       |
 | Level 21| Task 5,6,7       |
 | Level 23| Task 4           |
